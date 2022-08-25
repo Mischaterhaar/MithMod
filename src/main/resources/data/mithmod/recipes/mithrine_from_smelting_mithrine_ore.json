@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mithmod:mithrine_ore"
+  },
+  "result": "mithmod:mithrine",
+  "experience": 1.0,
+  "cookingtime": 200
+}

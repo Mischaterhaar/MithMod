@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mithmod:mithrine_block"
+    }
+  ],
+  "result": {
+    "item": "mithmod:mithrine",
+    "count": 9
+  }
+}
